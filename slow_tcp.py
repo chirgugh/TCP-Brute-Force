@@ -72,10 +72,7 @@ sock.close()
 
 # In[57]:
 
-
-print("hey")
-print ('Array values', correctValues)
-print ('Array len', len(correctValues))
+#----------------------The code above broke connection to the server on the last round and the below code was another try utilizing the saved values from the array----------
 
 
 # In[58]:
